@@ -1,166 +1,336 @@
-<div align="center">
+MUATH ALOUFI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:050505,70:0b1f1a,100:000000&height=230&section=header&text=MUATH%20ALOUFI&fontSize=52&fontColor=00ff9d&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:061a16,100:000000&height=220&section=header&text=MUATH%20ALOUFI&fontSize=52&fontColor=00ff9d&fontAlignY=35&animation=fadeIn" width="100%"/>
+</p>
+<p align="center">
+  <strong>Computer Engineer</strong>
+  <br>
+  Networking • IT Infrastructure • Cybersecurity • Software Development • Cloud Computing
+</p>
+<p align="center">
+  <a href="https://github.com/muath-aloufi-eng">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9d" />
+  </a>
+  <a href="https://www.linkedin.com/in/eng-muath-aloufi">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9d" />
+  </a>
+  <a href="mailto:muath.aloufi.eng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9d" />
+  </a>
+</p>
 
-<br>
+⸻
 
-<!-- Animated Terminal / Coding -->
-<img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/demo.gif" width="80%"/>
+> whoami
 
-<br><br>
+Computer Engineer focused on understanding how systems connect,
+communicate, operate, and work together.
+My technical interests span networking, infrastructure,
+cybersecurity, software development, cloud computing,
+IoT, system integration, and smart infrastructure.
+I enjoy combining different areas of technology to understand
+the complete environment rather than focusing on a single layer.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=750&lines=Computer+Engineer;Networking+%7C+Cybersecurity+%7C+IT+Infrastructure;Software+Development+%7C+Cloud+%7C+IoT;SCADA+%7C+BMS+%7C+System+Integration" />
+⸻
 
-</div>
-
----
-
-## 👨‍💻 About Me
+> about_me
 
 Computer Engineer with a broad technical foundation across Networking, IT Infrastructure, Cybersecurity, Software Development, Cloud Computing, IoT, and Systems Engineering.
 
-Interested in how hardware, software, networks, and connected systems work together to create reliable and practical technical environments.
+Interested in how hardware, software, networks, infrastructure, and connected systems work together to create reliable and practical technical environments.
 
-Focused on networking, infrastructure, cybersecurity, software development, cloud technologies, IoT, and system integration, with an interest in modern infrastructure technologies such as SCADA and BMS.
+Focused on developing practical technical knowledge, solving problems systematically, understanding system integration, and continuously expanding my capabilities across modern technology environments.
 
-Committed to continuous learning, practical problem-solving, and building technical solutions across different areas of computer engineering.
+My interests also extend to SCADA, BMS, smart infrastructure, monitoring systems, and connected technologies, particularly where networking, software, and physical infrastructure intersect.
 
----
+⸻
 
-## 🎯 Areas of Interest
+> core_areas
 
-- 🌐 Networking & Network Infrastructure
-- 🖥️ IT Infrastructure & Systems Engineering
-- 🔐 Cybersecurity & Network Security
-- 💻 Software & Web Development
-- ☁️ Cloud Computing
-- 🌐 IoT & Connected Systems
-- 🏢 SCADA & Building Management Systems
-- 🔗 System Integration
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+Networking
 
-## 🛠️ Technologies & Tools
+* Network Infrastructure
+* Routing & Switching
+* IP Networking
+* Network Connectivity
+* Network Security
+* Enterprise Networks
+* Cisco Technologies
 
-### 💻 Programming & Development
+</td>
+<td width="50%" valign="top">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+IT Infrastructure
 
-### 🌐 Networking & Infrastructure
+* Systems Engineering
+* Windows Server
+* Linux
+* Active Directory
+* Virtualization
+* Infrastructure Services
+* System Administration
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=windows&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ☁️ Cloud & Connected Systems
+Cybersecurity
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-111111?style=flat)
-![SCADA](https://img.shields.io/badge/SCADA-111111?style=flat)
-![BMS](https://img.shields.io/badge/BMS-111111?style=flat)
+* Network Security
+* Security Fundamentals
+* Firewall Technologies
+* Fortinet Technologies
+* Security Monitoring
+* Infrastructure Security
+* Cybersecurity Concepts
 
-### 🔧 Tools
+</td>
+<td width="50%" valign="top">
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+Software Development
 
----
+* Web Development
+* Front-End Development
+* Software Engineering
+* React.js
+* Next.js
+* JavaScript
+* Data & Database Technologies
 
-## 🚀 Featured Project
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Smart Infrastructure & IoT Monitoring System
+Cloud & Connected Systems
 
-A web-based monitoring and control dashboard designed around modern BMS and SCADA concepts.
+* Cloud Computing
+* AWS
+* Microsoft Azure
+* IoT
+* Connected Systems
+* Smart Infrastructure
+* System Integration
 
-**Technologies**
+</td>
+<td width="50%" valign="top">
 
-- React.js
-- Vite
-- JavaScript
-- HTML
-- CSS
-- IoT Concepts
-- System Monitoring
-- Data Visualization
+Infrastructure Technologies
 
-The project demonstrates the integration of software development, IoT concepts, and infrastructure monitoring through an interactive technical dashboard.
+* SCADA
+* BMS
+* Monitoring Systems
+* Infrastructure Integration
+* Data Visualization
+* Technical Systems
+* Digital Infrastructure
 
----
+</td>
+</tr>
+</table>
 
-## 📚 Currently Exploring
+⸻
 
-- Advanced Networking
-- IT Infrastructure
-- Cybersecurity
-- Cloud Computing
-- System Integration
-- IoT & Smart Infrastructure
-- SCADA & BMS Technologies
+> technologies
 
----
+Programming Languages
 
-## 📊 GitHub Statistics
+<p>
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<div align="center">
+Web Development
 
-<img src="./profile/stats.svg" height="180"/>
+<p>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+</p>
 
-<img src="./profile/top-langs.svg" height="180"/>
+Networking & Infrastructure
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortinet-111111?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-111111?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Server-111111?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
----
+Cloud & Tools
 
-## 🔥 GitHub Activity
+<p>
+<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
 
-<div align="center">
+⸻
 
-<img src="./profile/activity.svg" width="95%"/>
+> featured_project
 
-</div>
+Smart Infrastructure & IoT Monitoring System
 
----
+A web-based monitoring and control dashboard inspired by BMS and SCADA environments, designed to represent infrastructure monitoring, connected systems, and technical data through a modern web interface.
 
-## 🌐 Connect With Me
+Architecture & Technologies
 
-<div align="center">
+Frontend
+├── React.js
+├── Vite
+├── JavaScript
+├── HTML5
+└── CSS3
+Concepts
+├── IoT
+├── Smart Infrastructure
+├── Monitoring Systems
+├── Data Visualization
+├── System Integration
+└── BMS / SCADA Concepts
 
+Project Focus
+
+* Infrastructure monitoring
+* Connected devices and systems
+* Real-time-style data visualization
+* Modern dashboard interface
+* Smart infrastructure concepts
+* BMS-inspired monitoring
+* SCADA-inspired visualization
+* System integration concepts
+
+<p align="center">
+  <a href="https://github.com/muath-aloufi-eng/Smart-Infrastructure-IoT-Monitoring-System">
+    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=00ff9d"/>
+  </a>
+</p>
+
+⸻
+
+> engineering_focus
+
+                    ┌───────────────────────┐
+                    │   Computer Engineering │
+                    └───────────┬───────────┘
+                                │
+        ┌───────────────────────┼───────────────────────┐
+        │                       │                       │
+        ▼                       ▼                       ▼
+   Networking             Software                 Systems
+        │                       │                       │
+        ▼                       ▼                       ▼
+ Infrastructure           Web Development       System Integration
+        │                       │                       │
+        └───────────────┬───────┴───────────────┘
+                        │
+                        ▼
+              Connected Technologies
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+            IoT              Smart Infrastructure
+             │                     │
+             └──────────┬──────────┘
+                        ▼
+                  SCADA / BMS
+
+⸻
+
+> currently_exploring
+
+[01] Advanced Networking
+[02] IT Infrastructure
+[03] Cybersecurity
+[04] Cloud Computing
+[05] System Integration
+[06] IoT & Connected Systems
+[07] Smart Infrastructure
+[08] SCADA & BMS Technologies
+[09] Modern Infrastructure Environments
+
+⸻
+
+> certifications
+
+* Microsoft Cloud Concepts
+* Cisco Networking Basics
+* IBM Information Technology Fundamentals
+* Fortinet Cybersecurity and Cloud Fundamentals
+* AWS Cloud Practitioner Essentials
+* SDAIA Fundamentals of Artificial Intelligence
+* CompTIA Network+
+* Red Hat Linux / Infrastructure
+* NVIDIA Technical Learning
+* Saudi Council of Engineers — Professional Accreditation
+
+⸻
+
+> github_statistics
+
+<p align="center">
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+</p>
+<p align="center">
+<img src="./profile/activity.svg" width="90%" alt="GitHub Activity"/>
+</p>
+
+Statistics are generated and stored directly inside this repository through GitHub Actions.
+
+⸻
+
+> contribution
+
+<p align="center">
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│     Code → Build → Test → Learn → Improve → Repeat         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+</p>
+
+⸻
+
+> connect
+
+<p align="center">
 <a href="https://github.com/muath-aloufi-eng">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/eng-muath-aloufi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:muath.aloufi.eng@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-</div>
+⸻
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0b1f1a,70:020202,100:000000&height=130&section=footer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=00FF9D&center=true&vCenter=true&width=650&lines=root%40muath%3A~%24+./keep_learning.sh;SYSTEM+ONLINE;NETWORK+SECURED;ACCESS+GRANTED" />
-
-</div>
+<p align="center">
+> SYSTEM STATUS: ONLINE
+> ENGINEERING MODE: ACTIVE
+> CONTINUOUS LEARNING: ENABLED
+</p>
+<p align="center">
+  <i>Building practical solutions. Connecting technologies. Exploring what comes next.</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:061a16,100:000000&height=120&section=footer"/>
+</p>
