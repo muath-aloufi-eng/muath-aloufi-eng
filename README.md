@@ -333,40 +333,15 @@ SENSOR DATA
 
 ---
 
-# 🖥️ ENGINEERING COMMAND CENTER
+# 🌐 DIGITAL SIGNAL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=450&color=00FF9C&center=true&vCenter=true&width=850&lines=INITIALIZING+ENGINEERING+ENVIRONMENT...;NETWORK+SYSTEMS+ONLINE;SECURITY+LAYER+ACTIVE;INFRASTRUCTURE+CONNECTED;SYSTEM+INTEGRATION+READY" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1700&pause=300&color=00FF9C&center=true&vCenter=true&width=850&lines=%5B+NETWORK+%5D+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0+CONNECTED;%5B+SECURITY+%5D+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0+ACTIVE;%5B+SYSTEMS+%5D+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0+ONLINE;%5B+INFRASTRUCTURE+%5D+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0+READY;%5B+INTEGRATION+%5D+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0+ACTIVE" />
 
-</div>
+<br>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  ENGINEERING COMMAND CENTER                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   NETWORKING         ████████████████████  ONLINE            ║
-║   INFRASTRUCTURE     ████████████████████  ONLINE            ║
-║   CYBERSECURITY      ████████████████████  ACTIVE            ║
-║   SOFTWARE           ████████████████████  ACTIVE            ║
-║   CLOUD              ████████████████████  CONNECTED         ║
-║   IoT                ████████████████████  CONNECTED         ║
-║   SYSTEM INTEGRATION ████████████████████  READY             ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   CORE MODE       : COMPUTER ENGINEERING                    ║
-║   SYSTEM STATUS   : OPERATIONAL                             ║
-║   SECURITY LAYER  : ACTIVE                                  ║
-║   CONNECTION      : ESTABLISHED                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1500&pause=350&color=00FF9C&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+READY+%5D;%5B+ALL+LAYERS+CONNECTED+%5D;%5B+ENGINEERING+MODE+ACTIVE+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1400&pause=250&color=00FF9C&center=true&vCenter=true&width=850&lines=SIGNAL+DETECTED...;DATA+FLOW+ESTABLISHED...;SYSTEMS+SYNCHRONIZED...;ALL+LAYERS+OPERATIONAL..." />
 
 </div>
 
