@@ -14,152 +14,226 @@ Interested in networking, infrastructure, cybersecurity, software development, c
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=NETWORKING+%7C+INFRASTRUCTURE+%7C+SECURITY;SOFTWARE+%7C+CLOUD+%7C+IoT;SCADA+%7C+BMS+%7C+SYSTEM+INTEGRATION;COMPUTER+ENGINEERING+%7C+TECHNOLOGY" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=NETWORKING+%7C+SECURITY+%7C+INFRASTRUCTURE;SOFTWARE+%7C+CLOUD+%7C+IoT;SYSTEMS+%7C+SCADA+%7C+BMS+%7C+INTEGRATION" />
 
-<br>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="750">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="780">
 
 <br><br>
 
 <a href="https://github.com/muath-aloufi-eng">
-<img src="https://img.shields.io/badge/GitHub-muath--aloufi--eng-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF9C">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/eng-muath-aloufi">
-<img src="https://img.shields.io/badge/LinkedIn-Muath%20Aloufi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF9C">
 </a>
 
 </div>
 
 ---
 
-# ⚙️ TECHNOLOGIES & TOOLS
+# ⚡ TECHNOLOGIES & TOOLS
 
-<div align="center">
+### Programming
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00FF9C)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
 
-<br>
+### Web Development
 
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+![React](https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react&logoColor=00FF9C)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=00FF9C)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=00FF9C)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=00FF9C)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=00FF9C)
 
-<br>
+### Networking & Infrastructure
 
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+![Cisco](https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=00FF9C)
+![Fortinet](https://img.shields.io/badge/Fortinet-111111?style=for-the-badge&logo=fortinet&logoColor=00FF9C)
+![VMware](https://img.shields.io/badge/VMware-111111?style=for-the-badge&logo=vmware&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00FF9C)
+![Windows Server](https://img.shields.io/badge/Windows_Server-111111?style=for-the-badge&logo=windows&logoColor=00FF9C)
 
-<br>
+### Cloud & Development Tools
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=00FF9C)
+![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00FF9C)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF9C)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C)
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=700&lines=C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript+%7C+SQL;React.js+%7C+Next.js+%7C+Vite;Cisco+%7C+Fortinet+%7C+VMware;Linux+%7C+Windows+Server+%7C+Active+Directory;AWS+%7C+Azure+%7C+Git+%7C+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=500&color=00FF9C&center=true&vCenter=true&width=850&lines=C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript+%7C+SQL;React.js+%7C+Next.js+%7C+Vite;Cisco+%7C+Fortinet+%7C+VMware;Linux+%7C+Windows+Server+%7C+Active+Directory;AWS+%7C+Azure+%7C+Git+%7C+GitHub" />
 
 </div>
 
 ---
 
-# 🧠 PROFESSIONAL FOCUS
-
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║                    COMPUTER ENGINEERING                    ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NETWORKING & INFRASTRUCTURE                                 ║
-║  ├─ Routing & Switching                                     ║
-║  ├─ IP Addressing                                           ║
-║  ├─ Network Connectivity                                    ║
-║  └─ Network Security                                        ║
-║                                                              ║
-║  SYSTEMS ENGINEERING                                        ║
-║  ├─ Windows Server                                          ║
-║  ├─ Linux                                                    ║
-║  ├─ Active Directory                                         ║
-║  └─ Virtualization                                           ║
-║                                                              ║
-║  CYBERSECURITY                                               ║
-║  ├─ Network Protection                                      ║
-║  ├─ Firewall Technologies                                   ║
-║  ├─ VPN                                                      ║
-║  └─ Infrastructure Security                                ║
-║                                                              ║
-║  SOFTWARE DEVELOPMENT                                       ║
-║  ├─ Programming                                             ║
-║  ├─ Web Applications                                        ║
-║  ├─ Frontend Development                                    ║
-║  └─ Database Technologies                                   ║
-║                                                              ║
-║  MODERN TECHNOLOGIES                                        ║
-║  ├─ Cloud Computing                                         ║
-║  ├─ IoT                                                      ║
-║  ├─ SCADA                                                    ║
-║  ├─ BMS                                                      ║
-║  └─ System Integration                                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-
----
-
-# 🏗️ ENGINEERING STACK
+# 🕶️ CYBER ENGINEERING MODE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=600&color=00FF00&center=true&vCenter=true&width=750&lines=NETWORKING+%E2%86%92+INFRASTRUCTURE;INFRASTRUCTURE+%E2%86%92+SECURITY;SECURITY+%E2%86%92+SYSTEMS;SYSTEMS+%E2%86%92+SOFTWARE;SOFTWARE+%E2%86%92+CLOUD;CLOUD+%E2%86%92+IoT;IoT+%E2%86%92+SMART+SYSTEMS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=850&lines=%3E+ACCESSING+NETWORK+LAYER...;%3E+ANALYZING+INFRASTRUCTURE...;%3E+SECURITY+PROTOCOLS+ACTIVE...;%3E+SYSTEMS+CONNECTED...;%3E+ENGINEERING+MODE+ACTIVE..." />
 
 </div>
 
-<pre>
-                    ┌─────────────────────┐
-                    │ COMPUTER ENGINEERING│
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          ▼                    ▼                    ▼
-     NETWORKING            SOFTWARE             SYSTEMS
-          │                    │                    │
-     Routing              C / C++              Windows
-     Switching             Python               Linux
-     Security              JavaScript            AD
-     Infrastructure        React.js              VMware
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │ MODERN TECHNOLOGIES │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-           CLOUD              IoT          SCADA / BMS
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                       SYSTEM INTEGRATION
-</pre>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    SYSTEM INITIALIZED                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  [01] NETWORK        →  CONNECT                             │
+│  [02] INFRASTRUCTURE →  BUILD                               │
+│  [03] SECURITY       →  PROTECT                             │
+│  [04] SOFTWARE       →  DEVELOP                             │
+│  [05] CLOUD          →  SCALE                               │
+│  [06] IoT            →  CONNECT                             │
+│  [07] SYSTEMS        →  INTEGRATE                           │
+│                                                             │
+│  STATUS : ONLINE                                            │
+│  MODE   : ENGINEERING                                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧩 ENGINEERING DOMAINS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 NETWORKING
+
+- Routing & Switching
+- IP Addressing
+- Network Connectivity
+- Network Infrastructure
+- Network Security
+- Firewall Technologies
+- VPN & NAT
+
+</td>
+<td width="50%">
+
+### 🖥️ SYSTEMS
+
+- IT Infrastructure
+- Windows Server
+- Linux
+- Active Directory
+- Virtualization
+- System Administration
+- Infrastructure Integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 CYBERSECURITY
+
+- Network Protection
+- Security Infrastructure
+- Firewall Security
+- IPS / IDS
+- VPN Security
+- Secure Connectivity
+- Infrastructure Protection
+
+</td>
+<td width="50%">
+
+### 💻 SOFTWARE
+
+- Programming
+- Web Applications
+- Frontend Development
+- Database Technologies
+- System Integration
+- Software Architecture
+- Technical Solutions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ MODERN TECHNOLOGIES
+
+- Cloud Computing
+- AWS
+- Microsoft Azure
+- IoT
+- Connected Systems
+- Smart Infrastructure
+
+</td>
+<td width="50%">
+
+### 🏭 INDUSTRIAL SYSTEMS
+
+- SCADA
+- BMS
+- Monitoring Systems
+- Smart Infrastructure
+- IoT Integration
+- System Monitoring
+- Technical Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 DIGITAL ARCHITECTURE
+
+```text
+                         ┌─────────────────────┐
+                         │  COMPUTER ENGINEER  │
+                         └──────────┬──────────┘
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+             ▼                      ▼                      ▼
+       ┌────────────┐        ┌────────────┐        ┌────────────┐
+       │ NETWORKING │        │  SOFTWARE  │        │  SYSTEMS   │
+       └──────┬─────┘        └──────┬─────┘        └──────┬─────┘
+              │                     │                     │
+              └─────────────────────┼─────────────────────┘
+                                    ▼
+                         ┌────────────────────┐
+                         │   INFRASTRUCTURE   │
+                         └─────────┬──────────┘
+                                   │
+                  ┌────────────────┼────────────────┐
+                  │                │                │
+                  ▼                ▼                ▼
+               SECURITY          CLOUD             IoT
+                  │                │                │
+                  └────────────────┼────────────────┘
+                                   ▼
+                         ┌────────────────────┐
+                         │ SMART TECHNOLOGIES │
+                         └─────────┬──────────┘
+                                   │
+                                   ▼
+                         ┌────────────────────┐
+                         │ SYSTEM INTEGRATION │
+                         └────────────────────┘
+```
 
 ---
 
@@ -167,47 +241,81 @@ Interested in networking, infrastructure, cybersecurity, software development, c
 
 ## Smart Infrastructure & IoT Monitoring System
 
-A web-based monitoring and control dashboard inspired by **BMS and SCADA environments**, combining smart infrastructure concepts, IoT monitoring, data visualization, and system integration.
+A web-based monitoring and control dashboard inspired by modern **BMS and SCADA environments**, designed to visualize infrastructure data and connected systems through an interactive interface.
 
-### 🔧 Technology Stack
+### Technology Stack
+
+![React](https://img.shields.io/badge/React.js-111111?style=flat-square&logo=react&logoColor=00FF9C)
+![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=00FF9C)
+![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=00FF9C)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=00FF9C)
+
+```text
+IoT DEVICES
+     │
+     ▼
+SENSOR DATA
+     │
+     ▼
+┌───────────────┐
+│   DATA LAYER  │
+└───────┬───────┘
+        │
+        ▼
+┌────────────────────┐
+│ BMS / SCADA LOGIC  │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│ MONITORING DASHBOARD│
+└─────────┬──────────┘
+          │
+          ▼
+   SMART INFRASTRUCTURE
+```
+
+---
+
+# ⚙️ SYSTEM FLOW
 
 <div align="center">
 
-`React.js` `Vite` `JavaScript` `HTML` `CSS`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1600&pause=350&color=00FF9C&center=true&vCenter=true&width=850&lines=ANALYZE+%E2%86%92+DESIGN+%E2%86%92+IMPLEMENT;IMPLEMENT+%E2%86%92+INTEGRATE+%E2%86%92+TEST;TEST+%E2%86%92+OPTIMIZE+%E2%86%92+DELIVER" />
 
 </div>
 
-### 📡 Core Concepts
-
-<div align="center">
-
-`IoT` • `Smart Infrastructure` • `Monitoring` • `Data Visualization`
-
-`BMS` • `SCADA` • `System Integration` • `Connected Systems`
-
-</div>
-
-<pre>
-┌────────────────────────────────────────────┐
-│          SMART INFRASTRUCTURE              │
-├────────────────────────────────────────────┤
-│                                            │
-│       IoT / Connected Devices              │
-│                    │                       │
-│                    ▼                       │
-│             Data Collection                │
-│                    │                       │
-│                    ▼                       │
-│          Monitoring & Visualization        │
-│                    │                       │
-│                    ▼                       │
-│             Web Dashboard                  │
-│                    │                       │
-│                    ▼                       │
-│          System Integration               │
-│                                            │
-└────────────────────────────────────────────┘
-</pre>
+```text
+          ┌──────────┐
+          │ ANALYZE  │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │  DESIGN  │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │IMPLEMENT │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │ INTEGRATE│
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │   TEST   │
+          └────┬─────┘
+               │
+               ▼
+          ┌──────────┐
+          │  DELIVER │
+          └──────────┘
+```
 
 ---
 
@@ -215,57 +323,54 @@ A web-based monitoring and control dashboard inspired by **BMS and SCADA environ
 
 <div align="center">
 
-`NETWORKING & INFRASTRUCTURE`
+`NETWORKING` `IT INFRASTRUCTURE` `CYBERSECURITY` `SOFTWARE DEVELOPMENT`
 
-`CYBERSECURITY & NETWORK SECURITY`
+`CLOUD COMPUTING` `IoT` `SCADA` `BMS` `SYSTEM INTEGRATION`
 
-`SOFTWARE & WEB DEVELOPMENT`
-
-`CLOUD COMPUTING`
-
-`IoT & CONNECTED SYSTEMS`
-
-`SCADA & BMS`
-
-`SYSTEM INTEGRATION`
-
-`SMART INFRASTRUCTURE`
+`SMART INFRASTRUCTURE` `NETWORK SECURITY` `SYSTEMS ENGINEERING`
 
 </div>
 
 ---
 
-# 🏗️ ENGINEERING APPROACH
+# 🖥️ TERMINAL
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=500&color=00FF00&center=true&vCenter=true&width=750&lines=ANALYZE+%E2%86%92+DESIGN+%E2%86%92+IMPLEMENT;IMPLEMENT+%E2%86%92+INTEGRATE+%E2%86%92+TEST;TEST+%E2%86%92+OPTIMIZE+%E2%86%92+DELIVER" />
-
-</div>
-
-Focused on practical problem-solving, technical integration, system reliability, and developing solutions across interconnected technology environments.
+```text
+┌──(moath@engineering)-[~/github]
+│
+├── $ whoami
+│   └── computer_engineer
+│
+├── $ focus
+│   ├── networking
+│   ├── infrastructure
+│   ├── cybersecurity
+│   ├── software
+│   ├── cloud
+│   └── connected_systems
+│
+├── $ environment
+│   └── modern_technology
+│
+└── $ status
+    └── ONLINE ████████████████████
+```
 
 ---
 
 # 💻 GITHUB
 
-<pre>
-╔══════════════════════════════════════════╗
-║              ENGINEERING MODE            ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  CODE          →   SOFTWARE              ║
-║  NETWORKS      →   CONNECTIVITY          ║
-║  INFRASTRUCTURE→   SYSTEMS               ║
-║  SECURITY      →   PROTECTION            ║
-║  CLOUD         →   SCALABILITY            ║
-║  IoT           →   CONNECTED SYSTEMS     ║
-║  INTEGRATION   →   SOLUTIONS             ║
-║                                          ║
-╚══════════════════════════════════════════╝
-</pre>
+```text
+CODE            → SOFTWARE
+NETWORKS        → CONNECTIVITY
+INFRASTRUCTURE  → SYSTEMS
+SECURITY        → PROTECTION
+CLOUD           → SCALABILITY
+IoT             → CONNECTED SYSTEMS
+INTEGRATION     → PRACTICAL SOLUTIONS
+```
 
-My repositories reflect practical work across software development, networking, infrastructure, and modern technology systems.
+My repositories reflect practical work across software, networking, infrastructure, connected technologies, and system integration.
 
 ---
 
@@ -274,19 +379,19 @@ My repositories reflect practical work across software development, networking, 
 <div align="center">
 
 <a href="https://github.com/muath-aloufi-eng">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF9C">
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/eng-muath-aloufi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF9C">
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=%3E+COMPUTER+ENGINEERING+%7C+NETWORKING+%7C+SECURITY;%3E+INFRASTRUCTURE+%7C+SOFTWARE+%7C+CLOUD+%7C+IoT;%3E+SCADA+%7C+BMS+%7C+SYSTEM+INTEGRATION;%3E+BUILD+%E2%80%A2+INTEGRATE+%E2%80%A2+SOLVE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1900&pause=500&color=00FF9C&center=true&vCenter=true&width=850&lines=COMPUTER+ENGINEERING;NETWORKING+%7C+SECURITY+%7C+INFRASTRUCTURE;SOFTWARE+%7C+CLOUD+%7C+IoT;SCADA+%7C+BMS+%7C+SYSTEM+INTEGRATION;BUILD+%E2%80%A2+INTEGRATE+%E2%80%A2+SOLVE" />
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=BUILD%20%E2%80%A2%20INTEGRATE%20%E2%80%A2%20SOLVE&fontSize=22&fontColor=ffffff&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=BUILD%20%E2%80%A2%20INTEGRATE%20%E2%80%A2%20SOLVE&fontSize=22&fontColor=ffffff&animation=twinkling"/>
 
 </div>
