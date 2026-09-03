@@ -333,28 +333,42 @@ SENSOR DATA
 
 ---
 
-# 🖥️ TERMINAL
+# 🖥️ ENGINEERING COMMAND CENTER
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=450&color=00FF9C&center=true&vCenter=true&width=850&lines=INITIALIZING+ENGINEERING+ENVIRONMENT...;NETWORK+SYSTEMS+ONLINE;SECURITY+LAYER+ACTIVE;INFRASTRUCTURE+CONNECTED;SYSTEM+INTEGRATION+READY" />
+
+</div>
 
 ```text
-┌──(moath@engineering)-[~/github]
-│
-├── $ whoami
-│   └── computer_engineer
-│
-├── $ focus
-│   ├── networking
-│   ├── infrastructure
-│   ├── cybersecurity
-│   ├── software
-│   ├── cloud
-│   └── connected_systems
-│
-├── $ environment
-│   └── modern_technology
-│
-└── $ status
-    └── ONLINE ████████████████████
+╔══════════════════════════════════════════════════════════════╗
+║                  ENGINEERING COMMAND CENTER                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   NETWORKING         ████████████████████  ONLINE            ║
+║   INFRASTRUCTURE     ████████████████████  ONLINE            ║
+║   CYBERSECURITY      ████████████████████  ACTIVE            ║
+║   SOFTWARE           ████████████████████  ACTIVE            ║
+║   CLOUD              ████████████████████  CONNECTED         ║
+║   IoT                ████████████████████  CONNECTED         ║
+║   SYSTEM INTEGRATION ████████████████████  READY             ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   CORE MODE       : COMPUTER ENGINEERING                    ║
+║   SYSTEM STATUS   : OPERATIONAL                             ║
+║   SECURITY LAYER  : ACTIVE                                  ║
+║   CONNECTION      : ESTABLISHED                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1500&pause=350&color=00FF9C&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+READY+%5D;%5B+ALL+LAYERS+CONNECTED+%5D;%5B+ENGINEERING+MODE+ACTIVE+%5D" />
+
+</div>
 
 ---
 
