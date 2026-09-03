@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=220&section=header&text=MUATH%20ALOUFI&fontSize=50&fontColor=00ff9d&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:050505,70:0f2027,100:000000&height=230&section=header&text=MUATH%20ALOUFI&fontSize=52&fontColor=00ff9d&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif?raw=true" width="55%"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif?raw=true" width="42%"/>
 
-### Computer Engineer
+<br>
 
-**Networking | IT Infrastructure | Cybersecurity | Software Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Computer+Engineer;Networking+%7C+Cybersecurity+%7C+IT+Infrastructure;Software+Development+%7C+Cloud+%7C+IoT;Building+%7C+Connecting+%7C+Learning" />
 
 </div>
 
@@ -14,19 +14,13 @@
 
 ## 👨‍💻 About Me
 
-Computer Engineer with a broad technical foundation across software development, networking, IT infrastructure, cybersecurity, cloud computing, IoT, and systems engineering.
+Computer Engineer with a broad technical foundation across Networking, IT Infrastructure, Cybersecurity, Software Development, Cloud Computing, IoT, and Systems Engineering.
 
-Interested in understanding how hardware, software, networks, and connected systems work together to build reliable and practical technical environments.
+Interested in how hardware, software, networks, and connected systems work together to create reliable and practical technical environments.
 
-Focused on networking, IT infrastructure, cybersecurity, software development, cloud technologies, IoT, and system integration, with an interest in modern infrastructure systems such as SCADA and BMS.
+Focused on networking, infrastructure, cybersecurity, software development, cloud technologies, IoT, and system integration, with an interest in modern infrastructure technologies such as SCADA and BMS.
 
-Committed to continuous learning, practical problem-solving, and developing technical solutions across different areas of computer engineering.
-
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-
-</div>
+Committed to continuous learning, practical problem-solving, and building technical solutions across different areas of computer engineering.
 
 ---
 
@@ -66,8 +60,9 @@ Committed to continuous learning, practical problem-solving, and developing tech
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=windows&logoColor=white)
 
-### ☁️ Cloud & Systems
+### ☁️ Cloud & Connected Systems
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -86,9 +81,11 @@ Committed to continuous learning, practical problem-solving, and developing tech
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer.png" width="15%"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer.png" width="13%"/>
 
-### 🚀 Building. Connecting. Learning.
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=%3E+Initializing+systems...;%3E+Connecting+networks...;%3E+Securing+infrastructure...;%3E+Building+solutions...;%3E+System+ready." />
 
 </div>
 
@@ -143,12 +140,12 @@ The project demonstrates the integration of software development, IoT concepts, 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/eng-muath-aloufi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:muath.aloufi.eng@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -157,8 +154,10 @@ The project demonstrates the integration of software development, IoT concepts, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:0f2027,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0f2027,70:050505,100:000000&height=130&section=footer"/>
 
-### `root@muath:~$ ./keep_learning.sh`
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=root%40muath%3A~%24+./keep_learning.sh;ACCESS+GRANTED;SYSTEM+ONLINE" />
 
 </div>
