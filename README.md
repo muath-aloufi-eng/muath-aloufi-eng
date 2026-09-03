@@ -4,7 +4,8 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/AlexGustafsson/hackertyper/master/demo.gif" width="80%"/>
+<!-- Animated Terminal / Coding -->
+<img src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/demo.gif" width="80%"/>
 
 <br><br>
 
@@ -130,7 +131,7 @@ The project demonstrates the integration of software development, IoT concepts, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muath-aloufi-eng&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="./profile/activity.svg" width="95%"/>
 
 </div>
 
