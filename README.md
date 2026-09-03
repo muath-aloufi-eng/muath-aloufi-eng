@@ -1,27 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AlexGustafsson/hackertyper/master/demo.gif" width="700">
-
 # MUATH ALOUFI
 
 ### Computer Engineer | Networking | IT Infrastructure | Cybersecurity
-
-Software Development • Cloud Computing • IoT • Systems Engineering
-
-<p>
-<a href="https://github.com/muath-aloufi-eng">
-<img src="https://img.shields.io/badge/GitHub-muath--aloufi--eng-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/eng-muath-aloufi">
-<img src="https://img.shields.io/badge/LinkedIn-Muath%20Aloufi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
 
 Computer Engineer with a broad technical foundation across Networking, IT Infrastructure, Cybersecurity, Software Development, Cloud Computing, IoT, and Systems Engineering.
 
@@ -31,11 +12,27 @@ Focused on networking, infrastructure, cybersecurity, software development, clou
 
 Committed to continuous learning, practical problem-solving, and building technical solutions across different areas of computer engineering.
 
+<br>
+
+<img src="https://raw.githubusercontent.com/AlexGustafsson/hackertyper/master/demo.gif" width="700">
+
+<br>
+
+<a href="https://github.com/muath-aloufi-eng">
+<img src="https://img.shields.io/badge/GitHub-muath--aloufi--eng-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/eng-muath-aloufi">
+<img src="https://img.shields.io/badge/LinkedIn-Muath%20Aloufi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
 ---
 
 ## 🧠 Technical Focus
 
-```text
+<pre>
 Networking & Infrastructure
 ├── Network Architecture
 ├── Routing & Switching
@@ -63,7 +60,7 @@ Modern Technologies
 ├── SCADA
 ├── BMS
 └── System Integration
-```
+</pre>
 
 ---
 
@@ -153,13 +150,9 @@ A web-based monitoring and control dashboard inspired by BMS and SCADA environme
 Smart Infrastructure
         │
         ├── IoT Concepts
-        │
         ├── Monitoring
-        │
         ├── Data Visualization
-        │
         ├── BMS / SCADA Concepts
-        │
         └── System Integration
                 │
                 ▼
@@ -208,25 +201,25 @@ Smart Infrastructure
 
 My repositories focus on practical learning, engineering concepts, software development, networking, infrastructure, and modern technology.
 
-```text
+<pre>
 Engineering Mindset
         ↓
-Learn
+      Learn
         ↓
-Build
+      Build
         ↓
-Test
+      Test
         ↓
-Improve
+     Improve
         ↓
-Integrate
-```
+     Integrate
+</pre>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/muath-aloufi-eng">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -236,25 +229,25 @@ Integrate
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-```text
+<pre>
 [ SYSTEM STATUS ]
 ────────────────────────────────
 ENGINEERING MODE      : ACTIVE
 NETWORKING            : ONLINE
 CYBERSECURITY         : LEARNING
 SOFTWARE DEVELOPMENT  : BUILDING
-CLOUD                  : EXPLORING
+CLOUD                 : EXPLORING
 IoT / SMART SYSTEMS   : EXPLORING
 SYSTEM INTEGRATION    : ACTIVE
 ────────────────────────────────
 STATUS                : CONTINUOUSLY LEARNING
-```
+</pre>
 
 ### `> Build • Learn • Integrate • Improve`
 
