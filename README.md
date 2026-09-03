@@ -23,10 +23,10 @@ Interested in networking, infrastructure, cybersecurity, software development, c
 <br><br>
 
 <a href="https://github.com/muath-aloufi-eng">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/eng-muath-aloufi">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -37,35 +37,35 @@ Interested in networking, infrastructure, cybersecurity, software development, c
 
 ### Programming
 
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=00FF9C)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00FF9C)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Development
 
-![React](https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react&logoColor=00FF9C)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=00FF9C)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=00FF9C)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=00FF9C)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=00FF9C)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Networking & Infrastructure
 
-![Cisco](https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=00FF9C)
-![Fortinet](https://img.shields.io/badge/Fortinet-111111?style=for-the-badge&logo=fortinet&logoColor=00FF9C)
-![VMware](https://img.shields.io/badge/VMware-111111?style=for-the-badge&logo=vmware&logoColor=00FF9C)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00FF9C)
-![Windows Server](https://img.shields.io/badge/Windows_Server-111111?style=for-the-badge&logo=windows&logoColor=00FF9C)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Cloud & Development Tools
 
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=00FF9C)
-![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00FF9C)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF9C)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -245,11 +245,11 @@ A web-based monitoring and control dashboard inspired by modern **BMS and SCADA 
 
 ### Technology Stack
 
-![React](https://img.shields.io/badge/React.js-111111?style=flat-square&logo=react&logoColor=00FF9C)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=00FF9C)
-![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=00FF9C)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=00FF9C)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ```text
 IoT DEVICES
@@ -379,11 +379,11 @@ My repositories reflect practical work across software, networking, infrastructu
 <div align="center">
 
 <a href="https://github.com/muath-aloufi-eng">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/eng-muath-aloufi">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF9C">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
@@ -392,6 +392,6 @@ My repositories reflect practical work across software, networking, infrastructu
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=BUILD%20%E2%80%A2%20INTEGRATE%20%E2%80%A2%20SOLVE&fontSize=22&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=140&section=footer&text=BUILD%20%E2%80%A2%20INTEGRATE%20%E2%80%A2%20SOLVE&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
