@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/AlexGustafsson/hackertyper/master/demo.gif" width="75%"/>
+<img src="https://raw.githubusercontent.com/AlexGustafsson/hackertyper/master/demo.gif" width="80%"/>
 
 <br><br>
 
@@ -118,23 +118,19 @@ The project demonstrates the integration of software development, IoT concepts, 
 
 <div align="center">
 
-<a href="https://github.com/muath-aloufi-eng">
-<img src="https://github-readme-stats.vercel.app/api?username=muath-aloufi-eng&show_icons=true&hide_border=true&count_private=true&theme=dark&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" height="180"/>
-</a>
+<img src="./profile/stats.svg" height="180"/>
 
-<a href="https://github.com/muath-aloufi-eng">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muath-aloufi-eng&layout=compact&hide_border=true&theme=dark&title_color=00ff9d&text_color=ffffff" height="180"/>
-</a>
+<img src="./profile/top-langs.svg" height="180"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=muath-aloufi-eng&theme=dark&hide_border=true&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muath-aloufi-eng&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
