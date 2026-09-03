@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:020202,70:0b1f1a,100:000000&height=230&section=header&text=MUATH%20ALOUFI&fontSize=52&fontColor=00ff9d&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1800&pause=500&color=00FF9D&center=true&vCenter=true&width=850&height=120&lines=%3E_%20Initializing+system...;%3E_%20Loading+network+modules...;%3E_%20Compiling+code...;%3E_%20Securing+infrastructure...;%3E_%20Connecting+systems...;%3E_%20Access+Granted." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:050505,70:0b1f1a,100:000000&height=230&section=header&text=MUATH%20ALOUFI&fontSize=52&fontColor=00ff9d&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muath-aloufi-eng&bg_color=000000&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/AlexGustafsson/hackertyper/master/demo.gif" width="75%"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00FF9D&center=true&vCenter=true&width=750&lines=Computer+Engineer;Networking+%7C+Cybersecurity+%7C+IT+Infrastructure;Software+Development+%7C+Cloud+%7C+IoT;SCADA+%7C+BMS+%7C+System+Integration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=750&lines=Computer+Engineer;Networking+%7C+Cybersecurity+%7C+IT+Infrastructure;Software+Development+%7C+Cloud+%7C+IoT;SCADA+%7C+BMS+%7C+System+Integration" />
 
 </div>
 
